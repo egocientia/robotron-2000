@@ -60,5 +60,7 @@ function atualizaEstatistica(peca) {
     })
 }
 
+//final do curso 1
+
 
 
