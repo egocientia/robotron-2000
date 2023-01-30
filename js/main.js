@@ -60,7 +60,7 @@ function atualizaEstatistica(peca) {
     })
 }
 
-//final do curso 1
+//final do curso JavaScript: manipulando o DOM
 
 
 
